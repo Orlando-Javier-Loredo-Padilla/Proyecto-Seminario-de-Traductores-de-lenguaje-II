@@ -1,6 +1,10 @@
 # Proyecto-Seminario-de-Traductores-de-lenguaje-II
 Recopilación de los trabajos para el proyecto de Seminario de Traductores de lenguaje II
 
+Datos: Orlando Javier Loredo Padilla 217560328 
+       López Franco Michel Emanuel 
+       Seminario Traductores II D02
+
 El proyecto final de la materia es una recopilación de todos los trabajos hechos durante el semestre en un mismo trabajo. El objetivo es que nuestro código lea lineas de código y que a partir de eso genere los analasis como al mismo tiempo pueda generar un código en ensamblador.
 
 Aqui se muestran las ejecuciones del programa. 
