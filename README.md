@@ -27,8 +27,6 @@ Analisis semantico
 
 Generación del código ensamblador
 
-![Captura de pantalla (111](https://github.com/Orlando-Javier-Loredo-Padilla/Proyecto-Seminario-de-Traductores-de-lenguaje-II/assets/123122353/5d5e4dd0-c384-43a0-98db-f44231dedc02)
-
-
+![Captura de pantalla (13)](https://github.com/Orlando-Javier-Loredo-Padilla/Proyecto-Seminario-de-Traductores-de-lenguaje-II/assets/123122353/a61ac2d5-db61-4409-928a-3283cc0357bd)
 
 
